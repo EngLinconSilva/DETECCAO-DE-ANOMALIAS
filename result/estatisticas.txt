@@ -1,0 +1,13 @@
+DETECÇÃO DE ANOMALIAS
+=====================
+
+Janela: 5x5
+Q1: 9.965532080968842e-05
+Q3: 0.03716292977333069
+IQR: 0.037063274532556534
+Limite: 0.09275784343481064
+
+Desvio padrão GLI: 0.3800733983516693
+Pixels totais: 90298
+Pixels anômalos: 13946
+% anomalias: 15.44
